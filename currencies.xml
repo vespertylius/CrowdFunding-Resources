@@ -32,7 +32,7 @@
     <id>5</id>
     <title>Swiss Franc</title>
     <abbr>CHF</abbr>
-    <symbol></symbol>
+    <symbol>CHF</symbol>
     <position>0</position>
   </currency>
   <currency>
